@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WashingtonCoutinho
 - 👀 I’m interested in Automation, Chatbots, Web Scrapping and Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 You can reach me at Instagram or Linkedin as Washington Coutinho.
 
